@@ -1,8 +1,5 @@
 <?php
 
-/*
-Repositorio de Git: https://github.com/adrianocaloni/TP-3_Prog1_DS2do2da.git 
- */
 
 require_once 'Alumnos.php';
 
